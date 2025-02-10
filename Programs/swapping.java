@@ -8,7 +8,7 @@ public class swapping {
         int c=a;
         a=b;
         b=c;
-        System.out.println("After swaping :" +a+","+b);
+        System.out.println("After swapping :" +a+","+b);
 
     }
 }
